@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="tipos_animal">
+        <item>Mamífero</item>
+        <item>Ave</item>
+        <item>Ave Rapaz</item>
+    </string-array>
+</resources>
